@@ -7,3 +7,8 @@ class Solution:
                 i += 1
         
         return i == len(s)
+
+
+## Complexity:
+## Time: O(len(t))
+## Space: O(1)
